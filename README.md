@@ -3,8 +3,8 @@
 
 ## Introduction
 
-This repository contains the translation for my app [MIUI Center Clock](https://play.google.com/store/apps/details?id=com.cpu82.miuicenterclock), which downloads and installs the popular Center Clock Mod from mi-globe.com to your Xiaomi device.
+This repository contains the translation for my app [MIUI Center Clock](https://play.google.com/store/apps/details?id=com.cpu82.miuicenterclock), which downloads and installs the popular [Center Clock Mod](http://forum.mi-globe.com/general-development-f34/mod-miui-v8-center-clock-mod-t67.html) from mi-globe.com to your Xiaomi device.
 
-All credit for Center Clock goes to dr4kendroid and paolodev00 from mi-globe.com
+All credit for Center Clock Mod goes to dr4kendroid and paolodev00 from mi-globe.com
 
 ## How to contribute
