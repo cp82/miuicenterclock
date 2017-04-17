@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Center Clock</string>
+    <string name="feature_title">Center Clock</string>
+    <string name="centerclock_summary">信号居左，时间居中用的。</string>
+
+    <!--Status messages-->
+    <string name="status_enabled">Center Clock已启用</string>
+    <string name="status_disabled">Center Clock未启用</string>
+    <string name="status_na">Center Clock不可用于此设备</string>
+    <string name="status_cc_enabling">正在激活Center Clock，请稍候</string>
+    <string name="status_cc_disabling">正在停用Center Clock，请稍候</string>
+    <string name="status_cc_enabled">Center Clock已启用</string>
+    <string name="status_cc_disabled">Center Clock未启用</string>
+    <string name="status_no_mod">未安装</string>
+    <string name="status_no_restore">关闭Center Clock失败</string>
+    <string name="status_dl">下载中</string>
+    <string name="status_dl_cancelled">操作已取消</string>
+    <string name="status_dl_fail">下载失败</string>
+    <string name="status_network">网络未连接</string>
+    <string name="status_url">文件尚不可用（%s），请稍后重试</string>
+    <string name="requesting_root">正在请求ROOT权限...</string>
+    <string name="requesting_write">正在请求存储权限...</string>
+
+    <!--Dialogs-->
+    <string name="alert_cc">需要额外的文件。 下载并安装？</string>
+    <string name="alert_resources">安装中Center Clock</string>
+    <string name="alert_cc_enable">安装完成，正在激活Center Clock。</string>
+    <string name="alert_cc_disable">安装完成，正在停用Center Clock。</string>
+    <string name="alert_yes">是</string>
+    <string name="alert_no">否</string>
+    <string name="alert_translate_title">App translation</string>
+    <string name="alert_translate_message">Would you like to contribute to your local translation of this app?</string>
+    <string name="alert_translate_yes">"Sure, I'm in"</string>
+    <string name="alert_translate_no">"No thanks"</string>
+    <string name="btn_cancel">取消</string>
+    <string name="action_translate">Translate</string>
+
+    <!--Error messages-->
+    <string name="error_root">此应用程序需要ROOT权限</string>
+    <string name="error_write">此应用程序需要存储权限</string>
+
+    <!--About pages-->
+    <string name="title_betatest">Beta tester</string>
+    <string name="title_icon">App icon</string>
+    <string name="title_about">关于</string>
+    <string name="title_status">状态信息</string>
+    <string name="title_translation">Chinese translation</string>
+    <string name="translators">cpu82</string>
+
+
+</resources>

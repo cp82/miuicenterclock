@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Center Clock</string>
+    <string name="centerclock_summary">Die Uhrzeit wie bei iOS in der Mitte der Statusleisete anzeigen</string>
+
+    <!--Status messages-->
+    <string name="status_enabled">Center Clock Mod ist aktiviert</string>
+    <string name="status_disabled">Center Clock Mod ist deaktiviert</string>
+    <string name="status_na">Center Clock Mod ist für dieses Gerät nicht verfügbar</string>
+    <string name="status_cc_enabling">Center Clock Mod wird aktiviert. Einen Moment…</string>
+    <string name="status_cc_disabling">Center Clock Mod wird deaktiviert. Einen Moment…</string>
+    <string name="status_cc_enabled">Center Clock Mod aktiviert</string>
+    <string name="status_cc_disabled">Center Clock Mod deaktiviert</string>
+    <string name="status_no_mod">"Center Clock Mod ist nicht installiert</string>
+    <string name="status_no_restore">Deaktivierung fehlgeschlagen</string>
+    <string name="status_dl">Wird heruntergeladen</string>
+    <string name="status_dl_cancelled">Download abgebrochen</string>
+    <string name="status_dl_fail">Download fehlgeschlagen</string>
+    <string name="status_network">Keine Netzwerkvrebindung</string>
+    <string name="status_url">Center Clock Mod ist für diese Version (%s) noch nicht verfügbar, versuchen Sie es später wieder.\n\nBetaversionen werden nicht unterstützt!</string>
+    <string name="requesting_root">Rootrechte werden angefordert…</string>
+    <string name="requesting_write">Schreibrechte werden angefordert…</string>
+
+    <!--Dialogs-->
+    <string name="alert_cc">Für diese Funktion werden zusätzliche Dateien benötigt.\nJetzt herunterladen (ca. 4,5 MB) und installieren?</string>
+    <string name="alert_resources">Center Clock Mod installieren</string>
+    <string name="alert_cc_enable">Installation erfolgreich. Center Clock Mod wird jetzt aktiviert.</string>
+    <string name="alert_cc_disable">Installation erfolgreich. Center Clock Mod wird jetzt deaktiviert.</string>
+    <string name="alert_yes">Ja</string>
+    <string name="alert_no">Nein</string>
+    <string name="alert_translate_title">App-Übersetzung</string>
+    <string name="alert_translate_message">Wollen Sie zur Übersetzung dieser App in Ihrer Landessprache beitragen?</string>
+    <string name="alert_translate_yes">"Ich bin dabei"</string>
+    <string name="alert_translate_no">"Nein, danke"</string>
+    <string name="btn_cancel">Abbrechen</string>
+    <string name="action_translate">Übersetzen</string>
+
+
+    <!--Error messages-->
+    <string name="error_root">Diese App benötigt Rootrechte</string>
+    <string name="error_write">Diese App benötigt Schreibrechte</string>
+
+    <!--About Page-->
+    <string name="title_about">About</string>
+    <string name="title_betatest">Betatester</string>
+    <string name="title_icon">App Icon</string>
+    <string name="title_status">Status</string>
+    <string name="title_translation">Deutsche Übersetzung</string>
+    <string name="translators">cpu82</string>
+
+</resources>
