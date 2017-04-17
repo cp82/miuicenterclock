@@ -57,6 +57,8 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 ### Needs translation
 * Afrikaans - af
 * Arabic - ar
+* Belarusian - be
+* Burmese - my
 * Catalan - ca
 * Chinese simplified - zh-CN
 * Chinese traditional - zh-TW
@@ -65,6 +67,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Danish - da
 * Dutch - nl
 * Estonian - et
+* Filipino - fil-PH
 * Finnish - fi
 * French - fr
 * Greek - el
@@ -79,6 +82,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Lithuanian - lt
 * Malay - ms
 * Norwegian - nb
+* Persian - fa
 * Polish - pl
 * Portuguese - pt-PT 
 * Portuguese, Brazilian - pt-BR
@@ -89,6 +93,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Slovenian - sl
 * Spanish - es-ES
 * Swedish - sv-SE
+* Tagalog - tl-PH
 * Thai - th
 * Turkish - tr
 * Ukrainian - uk

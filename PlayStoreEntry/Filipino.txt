@@ -1,0 +1,61 @@
+﻿TITLE
+*****
+
+MIUI Center Clock (unofficial)
+
+SHORT DESCRIPTION
+*****************
+
+Center Clock let's you easily change the look of your status bar under MIUI.
+
+FULL DESCRIPTION
+****************
+
+This app requires ROOT!
+
+It downloads and applies the popular Center Clock Mod from mi-globe.com. It will display the clock in the middle of the status bar like on iOS.
+
+
+<b>DISCLAIMER:</b>
+This app is unofficial and not linked to MIUI or Xiaomi.
+
+
+<b>Features:</b>
+★Enable/disable Center Clock Mod
+★works on-the-fly without reboot
+★Mod is downloaded directly from mi-globe.com
+★Other mods (like Beauty Mod) are preserved
+
+<b>Prerequisites:</b>
+★MIUI 8 ROM installed (Beta versions are not supported)
+★Device is rooted
+
+<b>Supported devices:</b>
+★Mi 2 /s - aries
+★Mi 3 / 4 - cancro
+★Mi 4c - libra
+★Mi 4s - aqua
+★Mi 5 / Pro - gemini
+★Mi 5s - capricorn
+★Mi 5s Plus - natrium 
+★Mi Max - hydrogen
+★Mi Max Pro - helium
+★Mi Mix - lithium
+★Mi Note - virgo
+★Mi Note Pro - leo
+★Mi Note 2 - scorpio
+★RedMi Pro - omega-
+★RedMi 2 WCDMA/Prime - wt88047
+★RedMi 2 TD - wt86047
+★RedMi 3 - ido
+★Mi 3 S/X - land
+★RedMi 4 - prada
+★RedMi 4A - rolex
+★RedMi 4 Pro - markw
+★RedMi Note 2 - hermes
+★RedMi Note 3 - hennessy 
+★RedMi Note 3 Pro - kenzo
+★RedMi Note 3 SE - kate
+★RedMi Note 4 - nikel
+★RedMi Note 4X - mido
+★Mi Pad 2 - latte
