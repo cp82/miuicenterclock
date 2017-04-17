@@ -21,7 +21,9 @@ You need a github account to make contributions to a project on github.
 ### Editing directly on github
 
 1. Got to the res/values-xx folder for your language and open the strings.xml file.
+
 2. Enter editor mode by clicking the pencil icon
+
 3. Edit the text within the xml start and end tags
 
 Example:
@@ -36,7 +38,10 @@ If you want to get credits in the app's about page, enter your name or nickname 
 ```xml
 <string name="translators">cpu82\nYour name</string>
 ```
+
 4. If you are done with your changes, you can create a so called pull-request by clicking "Propose file change".
+
+5. After I have reviewed and merged your changes, I will create a new app version including your translation.
 
 ### Editing a local copy on your computer
 
