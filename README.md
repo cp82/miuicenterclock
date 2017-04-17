@@ -1,4 +1,4 @@
-# ![logo](https://lh6.googleusercontent.com/xNPvCGFtu31o1fEjUEOe7Vy75oWC8z96nVykByQnGj9kkv1hn-dczOESuCjQM6nFesThzBQYTfdgc6A=w1920-h911-rw)
+# ![logo](http://i.imgur.com/yundeJX.png)
 # MIUI Center Clock translation project
 
 ## Introduction
@@ -12,6 +12,7 @@ All credit for Center Clock Mod goes to dr4kendroid and paolodev00 from mi-globe
 You can help making this app better by contributing to your local translation.
 
 Your work will be credited in the app's about page:
+[logo]http://i.imgur.com/qLm4FlB.png
 
 ###Prerequisites
 
