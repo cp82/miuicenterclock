@@ -1,50 +1,50 @@
 <resources>
     <string name="app_name">Center Clock</string>
     <string name="feature_title">Center Clock Mod</string>
-    <string name="centerclock_summary">Display the clock in the center of the status bar like on iOS</string>
+    <string name="centerclock_summary">Prikaz sata u središtu trake statusa kao na iOS-u</string>
 
     <!--Status messages-->
-    <string name="status_enabled">Center Clock Mod is enabled</string>
-    <string name="status_disabled">Center Clock Mod is disabled</string>
-    <string name="status_na">Center Clock Mod is not available for this device</string>
-    <string name="status_cc_enabling">Enabling Center Clock Mod. Just a sec…</string>
-    <string name="status_cc_disabling">Disabling Center Clock Mod. Just a sec…</string>
-    <string name="status_cc_enabled">Center Clock Mod enabled</string>
-    <string name="status_cc_disabled">Center Clock Mod disabled</string>
-    <string name="status_no_mod">"Center Clock Mod isn't installed"</string>
-    <string name="status_no_restore">Deactivation failed</string>
-    <string name="status_dl">Downloading</string>
-    <string name="status_dl_cancelled">Download cancelled</string>
-    <string name="status_dl_fail">Download failed</string>
-    <string name="status_network">No network connection</string>
-    <string name="status_url">Center Clock Mod is not yet available for this version (%s), check again later.\n\nBETA Versions are not supported!</string>
-    <string name="requesting_root">Requesting root access…</string>
-    <string name="requesting_write">Requesting write access…</string>
+    <string name="status_enabled">Center Clock Mod je omogućen</string>
+    <string name="status_disabled">Center Clock Mod je onemogućen</string>
+    <string name="status_na">Center Clock Mod nije dostupan za ovaj uređaj</string>
+    <string name="status_cc_enabling">Omogućivanje Center Clock Mod. Samo trenutak…</string>
+    <string name="status_cc_disabling">Onemogućivanje Center Clock Mod. Samo trenutak…</string>
+    <string name="status_cc_enabled">Center Clock Mod omogućen</string>
+    <string name="status_cc_disabled">Center Clock Mod onemogućen</string>
+    <string name="status_no_mod">"Center Clock Mod nije instaliran"</string>
+    <string name="status_no_restore">Deaktivacija nije uspjela</string>
+    <string name="status_dl">Preuzimanje</string>
+    <string name="status_dl_cancelled">Preuzimanje je otkazano</string>
+    <string name="status_dl_fail">Preuzimanje nije uspjelo</string>
+    <string name="status_network">Nema mrežne veze</string>
+    <string name="status_url">Center Clock Mod još nije dostupan za ovu verziju (%s), provjerite ponovno kasnije.\n\nBETA verzije nisu podržane!</string>
+    <string name="requesting_root">Zahtjev za root pristup…</string>
+    <string name="requesting_write">Zahtjev za pisanje pristupa…</string>
 
     <!--Dialogs-->
-    <string name="alert_cc">Additional files are required to use this feature. Download (approx. 4.5 MB) and install now?</string>
-    <string name="alert_resources">Install Center Clock Mod</string>
-    <string name="alert_cc_enable">Installation successful. Center Clock Mod will be enabled now.</string>
-    <string name="alert_cc_disable">Installation successful. Center Clock Mod will be disabled now.</string>
-    <string name="alert_yes">Yes</string>
-    <string name="alert_no">No</string>
-    <string name="alert_translate_title">App translation</string>
-    <string name="alert_translate_message">Would you like to contribute to your local translation of this app?</string>
-    <string name="alert_translate_yes">"Sure, I'm in"</string>
-    <string name="alert_translate_no">"No thanks"</string>
-    <string name="btn_cancel">Cancel</string>
-    <string name="action_translate">Translate</string>
+    <string name="alert_cc">Za korištenje ove značajke potrebne su dodatne datoteke. Preuzeti (oko. 4.5 MB) i sada instalirati?</string>
+    <string name="alert_resources">Instaliraj Center Clock Mod</string>
+    <string name="alert_cc_enable">Instalacija je uspjela. Center Clock Mod će sad biti omogućen.</string>
+    <string name="alert_cc_disable">Instalacija je uspjela. Center Clock Mod će sad biti onemogućen.</string>
+    <string name="alert_yes">Da</string>
+    <string name="alert_no">Ne</string>
+    <string name="alert_translate_title">Prijevod aplikacije</string>
+    <string name="alert_translate_message">Želite li pridonijeti lokalnom prijevodu ove aplikacije?</string>
+    <string name="alert_translate_yes">"Naravno, ja sam za"</string>
+    <string name="alert_translate_no">"Ne hvala"</string>
+    <string name="btn_cancel">Odustani</string>
+    <string name="action_translate">Predvedi</string>
 
     <!--Error messages-->
-    <string name="error_root">This app requires root access</string>
-    <string name="error_write">This app requires write access</string>
+    <string name="error_root">Ova aplikacija zahtijeva root pristup</string>
+    <string name="error_write">Ova aplikacija zahtijeva pristup pisanju</string>
 
     <!--About Page-->
-    <string name="title_about">About</string>
+    <string name="title_about">O aplikaciji</string>
     <string name="title_betatest">Beta tester</string>
-    <string name="title_icon">App icon</string>
+    <string name="title_icon">Ikona aplikacije</string>
     <string name="title_status">Status</string>
-    <string name="title_translation">English translation</string>
+    <string name="title_translation">Engleski prijevod</string>
     <string name="translators">cpu82</string>
 
 
