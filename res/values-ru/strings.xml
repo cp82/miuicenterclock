@@ -44,8 +44,8 @@
     <string name="title_betatest">Тестеры</string>
     <string name="title_icon">Иконка</string>
     <string name="title_status">Статус</string>
-    <string name="title_translation">Английский язык</string>
-    <string name="translators">cpu82</string>
+    <string name="title_translation">Русский язык</string>
+    <string name="translators">MS</string>
 
 
 </resources>
