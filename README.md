@@ -44,7 +44,7 @@ If you want to get credits in the app's about page, enter your name or nickname 
 5. After I have reviewed and merged your changes, I will create a new app version including your translation.
 
 ### Editing a local copy on your computer
-
+ 
 If you want don't want to use the web editor, you can also create a fork and checkout your local copy.
 Please read this [guide](https://guides.github.com/activities/forking/) for more information.
 
@@ -59,6 +59,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Croatian - hr
 * English, US - en-US
 * German - de
+* Russian - ru
 
 ### Needs translation
 * Afrikaans - af
@@ -92,7 +93,6 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Portuguese - pt-PT 
 * Portuguese, Brazilian - pt-BR
 * Romanian - ro
-* Russian - ru
 * Serbian (Cyrillic) - sr
 * Slovak - sk
 * Slovenian - sl
