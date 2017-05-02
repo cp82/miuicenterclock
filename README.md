@@ -59,6 +59,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Croatian - hr
 * English, US - en-US
 * German - de
+* Japanese - ja
 * Russian - ru
 
 ### Needs translation
@@ -82,7 +83,6 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Hungarian - hu
 * Indonesian - id
 * Italian - it
-* Japanese - ja
 * Korean - ko
 * Latvian - lv
 * Lithuanian - lt
