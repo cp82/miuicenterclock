@@ -40,7 +40,7 @@
     <string name="error_write">Esta aplicação necessita de acesso de escrita</string>
 
     <!--About Page-->
-    <string name="title_about">About</string>
+    <string name="title_about">Acerca de</string>
     <string name="title_betatest">Beta tester</string>
     <string name="title_icon">Ícone da aplicação</string>
     <string name="title_status">Estado</string>
