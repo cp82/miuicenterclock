@@ -56,6 +56,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 ## Languages and country codes
 
 ### Done
+* Arabic - ar
 * Croatian - hr
 * English, US - en-US
 * German - de
@@ -66,7 +67,6 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 
 ### Needs translation
 * Afrikaans - af
-* Arabic - ar
 * Belarusian - be
 * Burmese - my
 * Catalan - ca
