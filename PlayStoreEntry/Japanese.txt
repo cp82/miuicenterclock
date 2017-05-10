@@ -11,7 +11,7 @@ Center Clockを使用すると、MIUIでステータスバーの外観を簡単�
 FULL DESCRIPTION
 ****************
 
-このアプリはroot権限が必要です！!
+このアプリはroot権限が必要です！
 
 それは mi-globe.com で人気のあるCenter Clock Modをダウンロードし適用します。これはiOSのようにステータスバーの時計を中央に表示します。
 
@@ -23,7 +23,7 @@ FULL DESCRIPTION
 <b>特徴と機能:</b>
 ★Center Clock Modの有効/無効化
 ★再起動せずにオンザフライで動作
-★mi-globe.com からModを直接ダウンロード
+★ mi-globe.com からModを直接ダウンロード
 ★その他のMod (Beauty Mod等)はあらかじめ保存済み
 
 <b>前提条件:</b>
