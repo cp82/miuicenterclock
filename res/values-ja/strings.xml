@@ -33,7 +33,7 @@
     <string name="alert_translate_yes">"はい、参加する"</string>
     <string name="alert_translate_no">結構です</string>
     <string name="btn_cancel">キャンセル</string>
-    <string name="action_translate">翻訳する</string>
+    <string name="action_translate">翻訳に参加</string>
 
     <!--Error messages-->
     <string name="error_root">このアプリはroot権限が必要です</string>
