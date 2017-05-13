@@ -1,51 +1,53 @@
 <resources>
-    <string name="app_name">Center Clock</string>
-    <string name="feature_title">Center Clock Mod</string>
-    <string name="centerclock_summary">Display the clock in the center of the status bar like on iOS</string>
-
-    <!--Status messages-->
-    <string name="status_enabled">Center Clock Mod is enabled</string>
-    <string name="status_disabled">Center Clock Mod is disabled</string>
-    <string name="status_na">Center Clock Mod is not available for this device</string>
-    <string name="status_cc_enabling">Enabling Center Clock Mod. Just a sec…</string>
-    <string name="status_cc_disabling">Disabling Center Clock Mod. Just a sec…</string>
-    <string name="status_cc_enabled">Center Clock Mod enabled</string>
-    <string name="status_cc_disabled">Center Clock Mod disabled</string>
-    <string name="status_no_mod">"Center Clock Mod isn't installed"</string>
-    <string name="status_no_restore">Deactivation failed</string>
-    <string name="status_dl">Downloading</string>
-    <string name="status_dl_cancelled">Download cancelled</string>
-    <string name="status_dl_fail">Download failed</string>
-    <string name="status_network">No network connection</string>
-    <string name="status_url">Center Clock Mod is not yet available for this version (%s), check again later.\n\nBETA Versions are not supported!</string>
-    <string name="requesting_root">Requesting root access…</string>
-    <string name="requesting_write">Requesting write access…</string>
-
-    <!--Dialogs-->
-    <string name="alert_cc">Additional files are required to use this feature. Download (approx. 4.5 MB) and install now?</string>
-    <string name="alert_resources">Install Center Clock Mod</string>
-    <string name="alert_cc_enable">Installation successful. Center Clock Mod will be enabled now.</string>
-    <string name="alert_cc_disable">Installation successful. Center Clock Mod will be disabled now.</string>
-    <string name="alert_yes">Yes</string>
-    <string name="alert_no">No</string>
-    <string name="alert_translate_title">App translation</string>
-    <string name="alert_translate_message">Would you like to contribute to your local translation of this app?</string>
-    <string name="alert_translate_yes">"Sure, I'm in"</string>
-    <string name="alert_translate_no">"No thanks"</string>
-    <string name="btn_cancel">Cancel</string>
-    <string name="action_translate">Translate</string>
-
-    <!--Error messages-->
-    <string name="error_root">This app requires root access</string>
-    <string name="error_write">This app requires write access</string>
-
-    <!--About Page-->
-    <string name="title_about">About</string>
-    <string name="title_betatest">Beta tester</string>
-    <string name="title_icon">App icon</string>
-    <string name="title_status">Status</string>
-    <string name="title_translation">English translation</string>
-    <string name="translators">cpu82</string>
+    <string name="app_name">Heure Centrée</string>
+    <string name="feature_title">Mod Heure Centrée</string>
+    <string name="centerclock_summary">Affiche l'heure au centre de la barre de statuts comme sur iOS</string>
 
 
+    <!--Status messages-->
+    <string name="status_enabled">Le mod Heure Centrée est activé</string>
+    <string name="status_disabled">Le mod Heure Centrée est désactivé</string>
+    <string name="status_na">Le mod Heure Centrée n'est pas disponible​ pour ce téléphone</string>
+    <string name="status_cc_enabling">Activation du mod. Veuillez patienter...</string>
+    <string name="status_cc_disabling">Désactivation du mod. Veuillez patienter...</string>
+    <string name="status_cc_enabled">Le mod Heure Centrée est activé</string>
+    <string name="status_cc_disabled">Le mod Heure Centrée est désactivé</string>
+    <string name="status_no_mod">"Le mod Heure Centrée n'est pas installé"</string>
+    <string name="status_no_restore">La désactivation a échouée</string>
+    <string name="status_dl">Téléchargement en cours...</string>
+    <string name="status_dl_cancelled">Téléchargement annulé</string>
+    <string name="status_dl_fail">Le téléchargement a échoué</string>
+    <string name="status_network">Pas de connexion Internet</string>
+    <string name="status_url">Le mod Heure Centrée n'est pas encore disponible pour cette version (%s), vérifiez plus tard.\n\nLes versions Bêta ne sont pas supportées</string>
+    <string name="requesting_root">Demande d'accès au ROOT en cours…</string>
+    <string name="requesting_write">Demande d'accès à la modification de fichiers en cours…</string>
+
+
+    <!--Dialogs-->
+    <string name="alert_cc">Des fichiers additionnel sont nécessaires au fonctionnement. Télécharger (environs 4.5 MO) et installer immédiatement?</string>
+    <string name="alert_resources">Installer le mod Heure Centrée</string>
+    <string name="alert_cc_enable">Installation réussie. Le mod Heure Centrée va maintenant être activé.</string>
+    <string name="alert_cc_disable">Installation réussie. Le mod Heure Centrée va maintenant être désactivé.</string>
+    <string name="alert_yes">Oui</string>
+    <string name="alert_no">Non</string>
+    <string name="alert_translate_title">Traduction de l'application</string>
+    <string name="alert_translate_message">Voulez vous aider à la traduction dans votre langue de l'application?</string>
+    <string name="alert_translate_yes">"Bien sûr"</string>
+    <string name="alert_translate_no">"Non merci"</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="action_translate">Traduire</string>
+
+
+    <!--Error messages-->
+    <string name="error_root">Cette application​ a besoin de l'accès au ROOT</string>
+    <string name="error_write">Cette application a besoin de l'accès à la modification de fichiers</string>
+
+
+    <!--About Page-->
+    <string name="title_about">À propos</string>
+    <string name="title_betatest">Testeurs bêta</string>
+    <string name="title_icon">Icône de l'application</string>
+    <string name="title_status">Statut</string>
+    <string name="title_translation">Traduction Française</string>
+    <string name="translators">MarshallRawR</string>
 </resources>
