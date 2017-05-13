@@ -27,7 +27,7 @@ Cette application n'est pas officielle et sans lien avec Xiaomi et MIUI.
 ★Les autres mod (comme le Beauty Mod) sont préservés
 
 <b>Prérequis:</b>
-★ROM MIUI 8 installée (les versions Béta de sont pas supportées)
+★ROM MIUI 8 installée (les versions bêta ne sont pas supportées)
 ★Accès au ROOT
 
 <b>Téléphones suppportés:</b>
