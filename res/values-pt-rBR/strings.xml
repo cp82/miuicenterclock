@@ -1,51 +1,51 @@
 <resources>
     <string name="app_name">Center Clock</string>
-    <string name="feature_title">Center Clock Mod</string>
-    <string name="centerclock_summary">Display the clock in the center of the status bar like on iOS</string>
+    <string name="feature_title">Mod Center Clock</string>
+    <string name="centerclock_summary">Altera o visual de sua barra de status, mostrando o relógio no centro como no iOS</string>
 
     <!--Status messages-->
-    <string name="status_enabled">Center Clock Mod is enabled</string>
-    <string name="status_disabled">Center Clock Mod is disabled</string>
-    <string name="status_na">Center Clock Mod is not available for this device</string>
-    <string name="status_cc_enabling">Enabling Center Clock Mod. Just a sec…</string>
-    <string name="status_cc_disabling">Disabling Center Clock Mod. Just a sec…</string>
-    <string name="status_cc_enabled">Center Clock Mod enabled</string>
-    <string name="status_cc_disabled">Center Clock Mod disabled</string>
-    <string name="status_no_mod">"Center Clock Mod isn't installed"</string>
-    <string name="status_no_restore">Deactivation failed</string>
-    <string name="status_dl">Downloading</string>
-    <string name="status_dl_cancelled">Download cancelled</string>
-    <string name="status_dl_fail">Download failed</string>
-    <string name="status_network">No network connection</string>
-    <string name="status_url">Center Clock Mod is not yet available for this version (%s), check again later.\n\nBETA Versions are not supported!</string>
-    <string name="requesting_root">Requesting root access…</string>
-    <string name="requesting_write">Requesting write access…</string>
+    <string name="status_enabled">O Mod Center Clock está ativo</string>
+    <string name="status_disabled">O Mod Center Clock está desativado</string>
+    <string name="status_na">O Mod Center Clock não está disponível para este dispositivo</string>
+    <string name="status_cc_enabling">Ativando o Mod Center Clock. Aguarde…</string>
+    <string name="status_cc_disabling">Desativando o  Mod Center Clock. Aguarde…</string>
+    <string name="status_cc_enabled">Mod Center Clock ativado</string>
+    <string name="status_cc_disabled">Mod Center Clock desativado</string>
+    <string name="status_no_mod">O Mod Center Clock não está instalado</string>
+    <string name="status_no_restore">Erro ao desativar</string>
+    <string name="status_dl">Baixando</string>
+    <string name="status_dl_cancelled">Download cancelado</string>
+    <string name="status_dl_fail">Erro ao baixar</string>
+    <string name="status_network">Sem acesso à internet</string>
+    <string name="status_url">O Mod Center Clock ainda não é disponível para esta versão (%s). Verifique novamente mais tarde.\n\nVersões BETA não são suportadas!</string>
+    <string name="requesting_root">Solicitando acesso root…</string>
+    <string name="requesting_write">Solicitando acesso ao armazenamento…</string>
 
     <!--Dialogs-->
-    <string name="alert_cc">Additional files are required to use this feature. Download (approx. 4.5 MB) and install now?</string>
-    <string name="alert_resources">Install Center Clock Mod</string>
-    <string name="alert_cc_enable">Installation successful. Center Clock Mod will be enabled now.</string>
-    <string name="alert_cc_disable">Installation successful. Center Clock Mod will be disabled now.</string>
-    <string name="alert_yes">Yes</string>
-    <string name="alert_no">No</string>
-    <string name="alert_translate_title">App translation</string>
-    <string name="alert_translate_message">Would you like to contribute to your local translation of this app?</string>
-    <string name="alert_translate_yes">"Sure, I'm in"</string>
-    <string name="alert_translate_no">"No thanks"</string>
-    <string name="btn_cancel">Cancel</string>
-    <string name="action_translate">Translate</string>
+    <string name="alert_cc">São necessários arquivos adicionais para utilizar esta função. Baixar (aprox. 4.5 MB) e instalar?</string>
+    <string name="alert_resources">Instalar o Mod Center Clock</string>
+    <string name="alert_cc_enable">Instalação bem sucedida. O Mod Center Clock será ativado agora</string>
+    <string name="alert_cc_disable">Instalação bem sucedida. O Mod Center Clock será desativado agora</string>
+    <string name="alert_yes">Sim</string>
+    <string name="alert_no">Não</string>
+    <string name="alert_translate_title">Tradução do aplicativo</string>
+    <string name="alert_translate_message">Gostaria de contribuir com a tradução deste aplicativo?</string>
+    <string name="alert_translate_yes">"Sim, eu gostaria"</string>
+    <string name="alert_translate_no">"Não, obrigado"</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="action_translate">Traduzir</string>
 
     <!--Error messages-->
-    <string name="error_root">This app requires root access</string>
-    <string name="error_write">This app requires write access</string>
+    <string name="error_root">Este aplicativo requer acesso root</string>
+    <string name="error_write">Este aplicativo requer acesso ao armazenamento</string>
 
     <!--About Page-->
-    <string name="title_about">About</string>
+    <string name="title_about">Sobre</string>
     <string name="title_betatest">Beta tester</string>
-    <string name="title_icon">App icon</string>
-    <string name="title_status">Status</string>
-    <string name="title_translation">English translation</string>
-    <string name="translators">cpu82</string>
+    <string name="title_icon">Ícone do aplicativo</string>
+    <string name="title_status">Informações</string>
+    <string name="title_translation">Tradução PT-BR</string>
+    <string name="translators">cpu82\DiorgenesS</string>
 
 
 </resources>
