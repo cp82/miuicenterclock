@@ -4,7 +4,7 @@
     <string name="centerclock_summary">Tampilkan jam di tengah statusbar seperti iOS</string>
 
     <!--Status messages-->
-    <string name="status_enabled">Center Clock Mod sudah aktif</string>
+    <string name="status_enabled">Center Clock Mod telah aktif</string>
     <string name="status_disabled">Center Clock Mod tidak aktif</string>
     <string name="status_na">Center Clock Mod tidak tersedia untuk perangkat ini</string>
     <string name="status_cc_enabling">Mengaktifkan Center Clock Mod. Tunggu sebentar…</string>
@@ -45,7 +45,7 @@
     <string name="title_icon">Ikon aplikasi</string>
     <string name="title_status">Status</string>
     <string name="title_translation">Terjemahan Indonesia</string>
-    <string name="translators">cpu82\ndiya</string>
+    <string name="translators">cpu82\nJulianto Juju</string>
 
 
 </resources>
