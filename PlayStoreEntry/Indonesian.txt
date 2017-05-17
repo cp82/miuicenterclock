@@ -6,12 +6,12 @@ MIUI Center Clock (unofficial)
 SHORT DESCRIPTION
 *****************
 
-Center Clock memudahkan Anda merubah penampilan status bar MIUI Anda.
+Center Clock memudahkan Anda mengganti tampilan pada status bar MIUI Anda.
 
 FULL DESCRIPTION
 ****************
 
-Aplikasi ini membutuhkan ROOT!
+Aplikasi ini membutuhkan Akses ROOT!
 
 Ini akan mengunduh dan menerapkan Center Clock Mod dari mi-globe.com dan akan menampilkan jam di tengah status bar seperti iOS.
 
