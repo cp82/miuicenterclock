@@ -1,51 +1,51 @@
 <resources>
     <string name="app_name">Center Clock</string>
     <string name="feature_title">Center Clock Mod</string>
-    <string name="centerclock_summary">Display the clock in the center of the status bar like on iOS</string>
+    <string name="centerclock_summary">Hiển thị đồng hồ ở chính giữa thanh trạng thái như trên iOS</string>
 
     <!--Status messages-->
-    <string name="status_enabled">Center Clock Mod is enabled</string>
-    <string name="status_disabled">Center Clock Mod is disabled</string>
-    <string name="status_na">Center Clock Mod is not available for this device</string>
-    <string name="status_cc_enabling">Enabling Center Clock Mod. Just a sec…</string>
-    <string name="status_cc_disabling">Disabling Center Clock Mod. Just a sec…</string>
-    <string name="status_cc_enabled">Center Clock Mod enabled</string>
-    <string name="status_cc_disabled">Center Clock Mod disabled</string>
-    <string name="status_no_mod">"Center Clock Mod isn't installed"</string>
+    <string name="status_enabled">Center Clock Mod đang bật</string>
+    <string name="status_disabled">Center Clock Mod đang tắt</string>
+    <string name="status_na">Center Clock Mod hiện chưa hỗ trợ cho thiết bị này</string>
+    <string name="status_cc_enabling">Đang bật Center Clock Mod. Chờ vài giây…</string>
+    <string name="status_cc_disabling">Đang tắt Center Clock Mod. Chờ vài giây…</string>
+    <string name="status_cc_enabled">Đã bật Center Clock Mod</string>
+    <string name="status_cc_disabled">Đã tắt Center Clock Mod</string>
+    <string name="status_no_mod">"Center Clock Mod chưa được cài đặt"</string>
     <string name="status_no_restore">Deactivation failed</string>
-    <string name="status_dl">Downloading</string>
-    <string name="status_dl_cancelled">Download cancelled</string>
-    <string name="status_dl_fail">Download failed</string>
-    <string name="status_network">No network connection</string>
-    <string name="status_url">Center Clock Mod is not yet available for this version (%s), check again later.\n\nBETA Versions are not supported!</string>
-    <string name="requesting_root">Requesting root access…</string>
-    <string name="requesting_write">Requesting write access…</string>
+    <string name="status_dl">Đang tải xuống</string>
+    <string name="status_dl_cancelled">Đã huỷ tải xuống</string>
+    <string name="status_dl_fail">Tải xuống thất bại</string>
+    <string name="status_network">Không có mạng</string>
+    <string name="status_url">Center Clock Mod hiện chưa hỗ trợ cho phiên bản này (%s), kiểm tra lại sau.\n\nPhiên bản thử nghiệm (BETA) không hỗ trợ!</string>
+    <string name="requesting_root">Đang yêu cầu quyền Root…</string>
+    <string name="requesting_write">Đang yêu cầu quyền Đọc…</string>
 
     <!--Dialogs-->
-    <string name="alert_cc">Additional files are required to use this feature. Download (approx. 4.5 MB) and install now?</string>
-    <string name="alert_resources">Install Center Clock Mod</string>
-    <string name="alert_cc_enable">Installation successful. Center Clock Mod will be enabled now.</string>
-    <string name="alert_cc_disable">Installation successful. Center Clock Mod will be disabled now.</string>
-    <string name="alert_yes">Yes</string>
-    <string name="alert_no">No</string>
-    <string name="alert_translate_title">App translation</string>
-    <string name="alert_translate_message">Would you like to contribute to your local translation of this app?</string>
-    <string name="alert_translate_yes">"Sure, I'm in"</string>
-    <string name="alert_translate_no">"No thanks"</string>
-    <string name="btn_cancel">Cancel</string>
-    <string name="action_translate">Translate</string>
+    <string name="alert_cc">Các tệp bổ sung được yêu cầu để sử dụng tính năng này. Tải xuống (khoảng 4.5 MB) và cài đặt ngay?</string>
+    <string name="alert_resources">Cài đặt Center Clock Mod</string>
+    <string name="alert_cc_enable">Cài đặt thành công. Center Clock Mod sẽ được bật ngay.</string>
+    <string name="alert_cc_disable">Cài đặt thành công. Center Clock Mod sẽ được tắt ngay.</string>
+    <string name="alert_yes">Có</string>
+    <string name="alert_no">Không</string>
+    <string name="alert_translate_title">dịch phần mềm</string>
+    <string name="alert_translate_message">Bạn có muốn đóng góp bản dịch địa phương của bạn cho ứng dụng này?</string>
+    <string name="alert_translate_yes">"Có, tôi tham gia"</string>
+    <string name="alert_translate_no">"Không, cảm ơn"</string>
+    <string name="btn_cancel">Huỷ</string>
+    <string name="action_translate">Dịch</string>
 
     <!--Error messages-->
-    <string name="error_root">This app requires root access</string>
-    <string name="error_write">This app requires write access</string>
+    <string name="error_root">Phần mềm này yêu cầu quyền Root</string>
+    <string name="error_write">Phần mềm này yêu cầu quyền Đọc</string>
 
     <!--About Page-->
-    <string name="title_about">About</string>
-    <string name="title_betatest">Beta tester</string>
-    <string name="title_icon">App icon</string>
-    <string name="title_status">Status</string>
-    <string name="title_translation">English translation</string>
-    <string name="translators">cpu82</string>
+    <string name="title_about">Thông tin</string>
+    <string name="title_betatest">Nhóm thử nghiệm</string>
+    <string name="title_icon">Biểu tượng ứng dụng</string>
+    <string name="title_status">Trạng thái</string>
+    <string name="title_translation">Bản dịch tiếng Anh</string>
+    <string name="translators">Thiện Phạm Nguyễn Hữu</string>
 
 
 </resources>
