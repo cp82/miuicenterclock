@@ -61,7 +61,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * English, US - en-US
 * French - fr
 * German - de
-* Indonesian - id
+* Indonesian - in
 * Japanese - ja
 * Portuguese, Brazilian - pt-BR
 * Portuguese - pt-PT 
