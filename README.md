@@ -67,6 +67,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Portuguese - pt-PT 
 * Russian - ru
 * Polish - pl
+* Vietnamese - vi
 
 ### Needs translation
 * Afrikaans - af
@@ -102,7 +103,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Thai - th
 * Turkish - tr
 * Ukrainian - uk
-* Vietnamese - vi
+
 
 
 If your language is missing or you need help with github, please send a message to cpu82@gmx.net
