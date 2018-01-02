@@ -12,12 +12,12 @@
     <string name="status_cc_enabled">Đã bật Center Clock Mod</string>
     <string name="status_cc_disabled">Đã tắt Center Clock Mod</string>
     <string name="status_no_mod">"Center Clock Mod chưa được cài đặt"</string>
-    <string name="status_no_restore">Deactivation failed</string>
+    <string name="status_no_restore">Chưa được kích hoạt</string>
     <string name="status_dl">Đang tải xuống</string>
     <string name="status_dl_cancelled">Đã huỷ tải xuống</string>
     <string name="status_dl_fail">Tải xuống thất bại</string>
     <string name="status_network">Không có mạng</string>
-    <string name="status_url">Center Clock Mod hiện chưa hỗ trợ cho phiên bản này (%s), kiểm tra lại sau.\n\nPhiên bản thử nghiệm (BETA) không hỗ trợ!</string>
+    <string name="status_url">Center Clock Mod hiện chưa hỗ trợ cho phiên bản này (%s), kiểm tra lại sau.\n\nPhiên bản thử nghiệm (BETA) sẽ không được hỗ trợ!</string>
     <string name="requesting_root">Đang yêu cầu quyền Root…</string>
     <string name="requesting_write">Đang yêu cầu quyền Đọc…</string>
 
@@ -28,7 +28,7 @@
     <string name="alert_cc_disable">Cài đặt thành công. Center Clock Mod sẽ được tắt ngay.</string>
     <string name="alert_yes">Có</string>
     <string name="alert_no">Không</string>
-    <string name="alert_translate_title">dịch phần mềm</string>
+    <string name="alert_translate_title">PNHT</string>
     <string name="alert_translate_message">Bạn có muốn đóng góp bản dịch địa phương của bạn cho ứng dụng này?</string>
     <string name="alert_translate_yes">"Có, tôi tham gia"</string>
     <string name="alert_translate_no">"Không, cảm ơn"</string>
@@ -45,7 +45,7 @@
     <string name="title_icon">Biểu tượng ứng dụng</string>
     <string name="title_status">Trạng thái</string>
     <string name="title_translation">Bản dịch tiếng Việt</string>
-    <string name="translators">Phạm Nguyễn Hữu Thiện/nBibi9768@gmail.com</string>
+    <string name="translators">Phạm Nguyễn Hữu Thiện\nBibi9768@gmail.com</string>
 
 
 </resources>
