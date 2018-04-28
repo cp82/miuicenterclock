@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Center Clock</string>
+    <string name="app_name">PNHT Center Clock</string>
     <string name="feature_title">Center Clock Mod</string>
     <string name="centerclock_summary">Hiển thị đồng hồ ở chính giữa thanh trạng thái như trên iOS</string>
 
@@ -29,8 +29,8 @@
     <string name="alert_yes">Có</string>
     <string name="alert_no">Không</string>
     <string name="alert_translate_title">PNHT</string>
-    <string name="alert_translate_message">Bạn có muốn đóng góp bản dịch địa phương của bạn cho ứng dụng này?</string>
-    <string name="alert_translate_yes">"Có, tôi tham gia"</string>
+    <string name="alert_translate_message">Phần mềm được dịch bởi Phạm Nguyễn Hữu Thiện (bibi9768@gmail.com). Bạn có muốn góp ý?</string>
+    <string name="alert_translate_yes">"Có"</string>
     <string name="alert_translate_no">"Không, cảm ơn"</string>
     <string name="btn_cancel">Huỷ</string>
     <string name="action_translate">Dịch</string>
