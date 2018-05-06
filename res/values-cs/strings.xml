@@ -1,51 +1,51 @@
 <resources>
     <string name="app_name">Center Clock</string>
     <string name="feature_title">Center Clock Mod</string>
-    <string name="centerclock_summary">Display the clock in the center of the status bar like on iOS</string>
+    <string name="centerclock_summary">Zobrazí hodiny ve středu stavového řádku jako v iOS</string>
 
     <!--Status messages-->
-    <string name="status_enabled">Center Clock Mod is enabled</string>
-    <string name="status_disabled">Center Clock Mod is disabled</string>
-    <string name="status_na">Center Clock Mod is not available for this device</string>
-    <string name="status_cc_enabling">Enabling Center Clock Mod. Just a sec…</string>
-    <string name="status_cc_disabling">Disabling Center Clock Mod. Just a sec…</string>
-    <string name="status_cc_enabled">Center Clock Mod enabled</string>
-    <string name="status_cc_disabled">Center Clock Mod disabled</string>
-    <string name="status_no_mod">"Center Clock Mod isn't installed"</string>
-    <string name="status_no_restore">Deactivation failed</string>
-    <string name="status_dl">Downloading</string>
-    <string name="status_dl_cancelled">Download cancelled</string>
-    <string name="status_dl_fail">Download failed</string>
-    <string name="status_network">No network connection</string>
-    <string name="status_url">Center Clock Mod is not yet available for this version (%s), check again later.\n\nBETA Versions are not supported!</string>
-    <string name="requesting_root">Requesting root access…</string>
-    <string name="requesting_write">Requesting write access…</string>
+    <string name="status_enabled">Center Clock Mod povolen</string>
+    <string name="status_disabled">Center Clock Mod zakázán</string>
+    <string name="status_na">Center Clock Mod není na tomto zařízení dostupný</string>
+    <string name="status_cc_enabling">Zapínám Center Clock Mod. Vteřinku…</string>
+    <string name="status_cc_disabling">Vypínám Center Clock Mod. Vteřinku…</string>
+    <string name="status_cc_enabled">Center Clock Mod povolen</string>
+    <string name="status_cc_disabled">Center Clock Mod zakázán</string>
+    <string name="status_no_mod">"Center Clock Mod není nainstalován"</string>
+    <string name="status_no_restore">Deaktivace selhala</string>
+    <string name="status_dl">Stahuji</string>
+    <string name="status_dl_cancelled">Stahování zrušeno</string>
+    <string name="status_dl_fail">Stahování selhalo</string>
+    <string name="status_network">Žádné připojení</string>
+    <string name="status_url">Center Clock Mod není pro tuto verzi dostupný (%s), zkuste to později.\n\nBETA verze nejsou podporované!</string>
+    <string name="requesting_root">Získávám práva ROOT…</string>
+    <string name="requesting_write">Získávám právo zapisovat…</string>
 
     <!--Dialogs-->
-    <string name="alert_cc">Additional files are required to use this feature. Download (approx. 4.5 MB) and install now?</string>
-    <string name="alert_resources">Install Center Clock Mod</string>
-    <string name="alert_cc_enable">Installation successful. Center Clock Mod will be enabled now.</string>
-    <string name="alert_cc_disable">Installation successful. Center Clock Mod will be disabled now.</string>
-    <string name="alert_yes">Yes</string>
-    <string name="alert_no">No</string>
-    <string name="alert_translate_title">App translation</string>
-    <string name="alert_translate_message">Would you like to contribute to your local translation of this app?</string>
-    <string name="alert_translate_yes">"Sure, I'm in"</string>
-    <string name="alert_translate_no">"No thanks"</string>
-    <string name="btn_cancel">Cancel</string>
-    <string name="action_translate">Translate</string>
+    <string name="alert_cc">Pro použití této funkce jsou vyžadovány další soubory. Stáhnout (asi. 4.5 MB) a nainstalovat?</string>
+    <string name="alert_resources">Nainstalovat Center Clock Mod</string>
+    <string name="alert_cc_enable">Instalace úspěšná. Center Clock Mod bude povolen.</string>
+    <string name="alert_cc_disable">Instalace úspěšná. Center Clock Mod bude zakázán.</string>
+    <string name="alert_yes">Ano</string>
+    <string name="alert_no">Ne</string>
+    <string name="alert_translate_title">Překlad</string>
+    <string name="alert_translate_message">Chcete přispět k překladu této aplikace?</string>
+    <string name="alert_translate_yes">"Jasně, do toho"</string>
+    <string name="alert_translate_no">"Ne, díky"</string>
+    <string name="btn_cancel">Zrušit</string>
+    <string name="action_translate">Přeložit</string>
 
     <!--Error messages-->
-    <string name="error_root">This app requires root access</string>
-    <string name="error_write">This app requires write access</string>
+    <string name="error_root">Aplikace vyžaduje práva ROOT</string>
+    <string name="error_write">Aplikace vyžaduje právo zapisovat</string>
 
     <!--About Page-->
-    <string name="title_about">About</string>
-    <string name="title_betatest">Beta tester</string>
-    <string name="title_icon">App icon</string>
-    <string name="title_status">Status</string>
-    <string name="title_translation">English translation</string>
-    <string name="translators">cpu82</string>
+    <string name="title_about">O</string>
+    <string name="title_betatest">Beta testeři</string>
+    <string name="title_icon">Ikona aplikace</string>
+    <string name="title_status">Stav</string>
+    <string name="title_translation">Český překlad translation</string>
+    <string name="translators">cpu82\VojtouNerCZ</string>
 
 
 </resources>
